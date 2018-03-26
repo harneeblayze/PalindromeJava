@@ -17,14 +17,14 @@ public class JavaMentorship {
      */
     public static void main(String[] args) {
         
-        JavaMentorship j = new JavaMentorship();
-        j.isPalindrome("ghg");
+     
+        isPalindrome("Deleveled");
          
         
         // TODO code application logic here
     }
     
-    private void isPalindrome(String test){
+    private static void isPalindrome(String test){
          //test = new String();
         String s2 = "";
         String s3 = "";
